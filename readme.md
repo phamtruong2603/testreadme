@@ -11,6 +11,6 @@ Nhóm 03
 
 | STT | MSV-Họ tên | Các nội dung thực hiện | Thể hiện | Ghi chú |
 |---|----|---|---|----|
-|1|B19DCCN136<space><space> Đỗ Quang Duy|-Từ 05/10-10/10: Khảo sát, tìm hiểu game<space><space>-Khởi tạo server|Server.java<space><space>ServerGame.java<space><space>ServerThread.java<space><space>ServerRoom.java|#|
+|1|B19DCCN136<space><space> Đỗ Quang Duy|- Từ 05/10-10/10: Khảo sát, tìm hiểu game <space><space> - Khởi tạo server|Server.java <space><space> ServerGame.java<space><space> ServerThread.java <space><space> ServerRoom.java|#|
 |2|B19DCCN160 <space><space>Nguyễn Xuân Đài||||
 |3|B19DCCN706 <space><space>Phạm Xuân Trường||||
