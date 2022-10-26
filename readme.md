@@ -10,7 +10,7 @@ Nhóm 03_19
  b. Kết quả đã đạt được
 
  c. Hạn chế, hướng phát triển
- 
+
 2. Tổng hợp công việc
 
 | STT | MSV-Họ tên | Các nội dung thực hiện | Thể hiện | Ghi chú |
@@ -22,10 +22,10 @@ Nhóm 03_19
   #### B19DCCN136 Đỗ Quang Duy
    - Từ 05/10-10/10: Khảo sát, tìm hiểu game
    - Khởi tạo server
-    - Server.java
-    - ServerGame.java
-    - ServerThread.java
-    - ServerRoom.java
+     - Server.java
+     - ServerGame.java
+     - ServerThread.java
+     - ServerRoom.java
 
   #### B19DCCN160 Nguyễn Xuân Đài
    - Từ 05/10-10/10: Khảo sát, tìm hiểu game
@@ -35,7 +35,7 @@ Nhóm 03_19
   #### B19DCCN706 Phạm Xuân Trường
    - Từ 05/10-10/10: Khảo sát, tìm hiểu game
    - Khởi tạo giao diện từng phòng chơi
-    - Room.java
+     - Room.java
 
 3. Quá trình phát triển
 
