@@ -10,6 +10,7 @@ Nhóm 03_19
  b. Kết quả đã đạt được
 
  c. Hạn chế, hướng phát triển
+ 
 2. Tổng hợp công việc
 
 | STT | MSV-Họ tên | Các nội dung thực hiện | Thể hiện | Ghi chú |
