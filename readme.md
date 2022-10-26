@@ -9,5 +9,9 @@ Nhóm 03
  c. Hạn chế, hướng phát triển<space><space>
 2. Tổng hợp công việc
 
-| STT | MSV-Họ tên | Các nội dung thực hiện | Thể hiện | Ghi chú |
-|---|----|---|---|----|
+| STT                                                                         | MSV-Họ tên                                | Các nội dung thực hiện                                                 | Thể hiện    | Ghi chú |
+| --------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------- | ----------- | ------- |
+| 1                                                                           | B19DCCN136<space><space> Đỗ Quang Duy     | -Từ 05/10-10/10: Khảo sát, tìm hiểu game<space><space>-Khởi tạo server | Server.java |
+| ServerGame.java<space><space>ServerThread.java<space><space>ServerRoom.java | #                                         |
+| 2                                                                           | B19DCCN160 <space><space>Nguyễn Xuân Đài  |                                                                        |             |         |
+| 3                                                                           | B19DCCN706 <space><space>Phạm Xuân Trường |                                                                        |             |         |
